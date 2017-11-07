@@ -6,4 +6,5 @@ license = "MIT"
 homepage = "https://github.com/Sgeo/take_mut"
 repository = "https://github.com/Sgeo/take_mut"
 description = "Take a T from a &mut T temporarily"
+documentation = "https://docs.rs/take_mut"
 categories = ["rust-patterns"]
